@@ -1,1 +1,4 @@
 .DS_Store
+/data/testcases/*
+/data/packages/*
+/data/templates/*
